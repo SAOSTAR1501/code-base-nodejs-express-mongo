@@ -1,0 +1,3 @@
+/**
+ * SAOSTAR service example
+ */

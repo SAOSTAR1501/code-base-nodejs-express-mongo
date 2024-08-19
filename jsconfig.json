@@ -1,0 +1,12 @@
+/**
+ * SAOSTAR jsconfig example
+ */
+{
+  "compilerOptions": {
+    "paths": {
+      "~/*": [
+        "./src/*"
+      ],
+    },
+  }
+}

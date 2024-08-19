@@ -1,0 +1,1 @@
+// SAOSTAR config cors
